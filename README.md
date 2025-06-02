@@ -1,25 +1,27 @@
-# Vinny  
-**Autonomous Technologist | Cybersecurity, Robotics, Linux**
+# Vinny
 
-Driven by curiosity, grounded in practicality. I take things apart to learn how they work — and if I can't see inside, I'll find a way. I study Computer Science, but most of what I know comes from real-world experimentation, not classrooms.
+Learning software development by building small, functional projects.  
+Most of this is practice: Java, C, CLI tools, and database interaction.
 
-I’m currently focused on cybersecurity, robotics, and GNU/Linux systems. To me, tech is a tool for independence — not something to get trapped in.
+## Projects
 
----
+### 🐾 [Zoologico](https://github.com/RealVinny/Zoologico)  
+A simple zoo simulation in Java, focused on OOP basics like inheritance, polymorphism and abstraction.
 
-## 🔧 What I Do
+### 🎉 [listaAniversario](https://github.com/RealVinny/listaAniversario)  
+Birthday list manager. Uses basic Java logic and list structures.
 
-- Write code only when it solves a real problem  
-- Learn from books, apply through hands-on projects  
-- Tear down, rebuild, and automate anything worth improving  
-- Ignore manuals, but document what works  
+### 🛒 [listaDeCompras](https://github.com/RealVinny/listaDeCompras)  
+Basic shopping list with CLI interface. Small CRUD operations in Java.
 
----
+### 💻 [JavaProject](https://github.com/RealVinny/JavaProject)  
+Testbed project. Used for trying out Java syntax and structure.
 
-## 🚧 Projects in Progress
-
-- Building a personal lab for offensive security and automation  
-- Designing a lifestyle where I control my systems — and my time  
-- Following a technical path where skill speaks louder than credentials  
+### 🗄️ [databaseComJava](https://github.com/RealVinny/databaseComJava)  
+Java + JDBC to interact with a relational database. Reads, writes and updates records.
 
 ---
+
+I’m still exploring and breaking things on purpose.  
+Most code here is for learning, not production.
+
