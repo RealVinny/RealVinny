@@ -9,13 +9,13 @@ Most of this is practice: Java, C, CLI tools, and database interaction.
 A simple zoo simulation in Java, focused on OOP basics like inheritance, polymorphism and abstraction.
 
 ### 🎉 [listaAniversario](https://github.com/RealVinny/listaAniversario)  
-Birthday list manager. Uses basic Java logic and list structures.
+Application that uses a given database to work with in Java.
 
 ### 🛒 [listaDeCompras](https://github.com/RealVinny/listaDeCompras)  
-Basic shopping list with CLI interface. Small CRUD operations in Java.
+Basic shopping list with CLI interface.
 
-### 💻 [JavaProject](https://github.com/RealVinny/JavaProject)  
-Testbed project. Used for trying out Java syntax and structure.
+### 💻 [JavaProject](https://github.com/RealVinny/PasswordGenerator)  
+A simple password generator coded in Java.
 
 ### 🗄️ [databaseComJava](https://github.com/RealVinny/databaseComJava)  
 Java + JDBC to interact with a relational database. Reads, writes and updates records.
