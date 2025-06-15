@@ -16,7 +16,7 @@ A C++ code that works as a coffe shop, created when I was learning how to code i
 ### 🛒 [listaDeCompras](https://github.com/RealVinny/listaDeCompras)  
 A basic C code for a shopping list with CLI interface, this was the code that inspired the development of VDSKit.
 
-###🔑 [PasswordGenerator](https://github.com/RealVinny/PasswordGenerator)  
+### 🔑 [PasswordGenerator](https://github.com/RealVinny/PasswordGenerator)  
 A simple password generator coded in java when I was curious about how it worked.
 
 ### ✅️ [LoginCode](https://github.com/RealVinny/databaseComJava)  
